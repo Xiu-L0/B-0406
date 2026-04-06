@@ -1,0 +1,5 @@
+{
+  "name": "0403 B-Subsidy Ops Platform",
+  "description": "An operations platform for supply-side subsidy management, featuring demand/supply forecasting, diagnosis heatmaps, and automated strategy generation.",
+  "requestFramePermissions": []
+}
